@@ -2,7 +2,7 @@
 class Database {
     // properties DB connection 
     private $host = 'localhost';
-    private $db_name = 'my_blog2';
+    private $db_name = 'myblog2';
     private $password = '123456';
     private $username = 'root';
     private $conn;
